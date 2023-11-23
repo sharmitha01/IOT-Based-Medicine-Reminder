@@ -39,7 +39,8 @@ FLOW CHART:
 
 BLOCK DIAGRAM:
 
-image
+![image](https://github.com/sharmitha01/IOT-Based-Medicine-Reminder/assets/149594557/5351043d-96e9-44a2-af06-78f40c31c836)
+
 
 ALGORITHM:
 
