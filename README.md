@@ -51,4 +51,7 @@ CIRCUIT DIAGRAM:
 
 ![image](https://github.com/sharmitha01/IOT-Based-Medicine-Reminder/assets/149594557/49054146-43f3-4fcc-9fab-e979faa86928)
 
+TECNICAL BLOG:
+
+
 
