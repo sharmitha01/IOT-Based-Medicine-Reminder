@@ -29,6 +29,7 @@ Automatic Time Adjustment: Utilize the RTC module's capability to automatically 
 
 MIND MAP:
 
+![image](https://github.com/sharmitha01/IOT-Based-Medicine-Reminder/assets/149594557/81e6f374-4fd4-48a2-8d34-82b598051e06)
 
 
 FLOW CHART:
