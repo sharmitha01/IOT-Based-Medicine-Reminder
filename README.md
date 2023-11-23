@@ -53,5 +53,6 @@ CIRCUIT DIAGRAM:
 
 TECNICAL BLOG:
 
+https://medicinereminderalarm.blogspot.com/2023/11/title-revolutionizing-medication.html
 
 
