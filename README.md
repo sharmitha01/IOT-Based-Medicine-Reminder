@@ -34,7 +34,8 @@ MIND MAP:
 
 FLOW CHART:
 
-image
+![image](https://github.com/sharmitha01/IOT-Based-Medicine-Reminder/assets/149594557/e6e29ccc-80b0-4616-82ff-11dacc399ed9)
+
 
 BLOCK DIAGRAM:
 
