@@ -29,7 +29,7 @@ Automatic Time Adjustment: Utilize the RTC module's capability to automatically 
 
 MIND MAP:
 
-image
+
 
 FLOW CHART:
 
