@@ -44,7 +44,8 @@ BLOCK DIAGRAM:
 
 ALGORITHM:
 
-image
+![image](https://github.com/sharmitha01/IOT-Based-Medicine-Reminder/assets/149594557/7894f60e-8320-41a3-854a-68555b731f02)
+
 
 CIRCUIT DIAGRAM:
 
